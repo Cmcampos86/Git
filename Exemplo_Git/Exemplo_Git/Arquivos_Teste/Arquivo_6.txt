@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Arquivo 6
-=======
 Arquivo 6 - Dev
-
-bla vla bla
->>>>>>> developer
